@@ -39,8 +39,6 @@
     <string name="call_notif_callconnectingect">Llamada conectándose por centralita</string>
     <string name="call_notif_callconnectedect">Llamada conectada por centralita</string>
     <string name="incall_call_type_label_forwarded">Llamada desviada</string>
-    <string name="dialer_ui_settings_title">Ajustes de marcación</string>
-    <string name="dialer_ui_settings_summary">Ajustes del teclado de marcación</string>
     <string name="noise_suppression_title">Supresor de ruido</string>
     <string name="noise_suppression_summary">Activar la supresión de ruido durante las llamadas</string>
     <string name="advanced_setting">Configuración avanzada</string>
@@ -63,11 +61,11 @@
     <string name="flip_action_dialog_title">Al voltear\u2026</string>
     <string name="flip_action_summary">Al voltear el terminal, <xliff:g id="action">%s</xliff:g></string>
     <string name="blacklist_title">Lista negra</string>
-    <string name="blacklist_summary_disabled">Desactivada</string>
-    <string name="blacklist_summary">Las llamadas entrantes de los números de la lista negra serán bloqueadas</string>
+    <string name="blacklist_summary_disabled">Deshabilitada</string>
+    <string name="blacklist_summary">Las llamadas entrantes de los números en la lista negra serán bloqueadas</string>
     <string name="add_blacklist_number">Añadir número de teléfono</string>
     <string name="add_to_blacklist">Añadir a la lista negra</string>
-    <string name="add_to_blacklist_message">Serán bloqueadas las llamadas futuras de %s</string>
+    <string name="add_to_blacklist_message">Las llamadas de %s serán bloqueadas</string>
     <string name="remove_blacklist_number_title">Quitar número de teléfono</string>
     <string name="remove_blacklist_number">¿Quitar %s de la lista negra?</string>
     <string name="blacklist_notification">Llamada de %s, bloqueada</string>
